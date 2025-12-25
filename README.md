@@ -13,3 +13,8 @@ OR
 2. Run `project.py` from the terminal:
 ```bash
 python project.py
+
+## 🎥 Project Walkthrough Video
+You can download and watch the video here:
+
+[Download the Video](Video%20Project.mp4)
