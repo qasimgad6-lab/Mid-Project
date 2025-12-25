@@ -14,7 +14,4 @@ OR
 ```bash
 python project.py
 
-## 🎥 Project Walkthrough Video
-You can download and watch the video here:
-
-[Download the Video](Video%20Project.mp4)
+## 🎥 You can download and watch the video here:
