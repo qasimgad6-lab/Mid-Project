@@ -15,3 +15,10 @@ OR
 python project.py
 
 ## 🎥 You can download and watch the video from the codes icon:
+
+
+import streamlit as st
+import pandas as pd
+import plotly.express as px
+
+env = venv(pythton 3.13.10)
